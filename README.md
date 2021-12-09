@@ -1,2 +1,2 @@
 # OnlineBookStoreJSP
-[ ► ](https://PranotiWagh.github.io/OnlineBookStoreJSP)
+[ ► ](https://ShivaShirsath.github.io/JavaServletProgram)
